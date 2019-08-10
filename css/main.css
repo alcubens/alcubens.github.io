@@ -1,0 +1,11 @@
+html {
+    font-size: 16px;
+}
+body {
+    background-color: rgb(127, 255, 212);
+    color: darkmagenta;
+}
+div {
+    color: darkred;
+    font-size: large;
+}
