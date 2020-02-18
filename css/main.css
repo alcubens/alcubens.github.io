@@ -9,3 +9,6 @@ div {
     color: darkred;
     font-size: large;
 }
+a {
+    text-decoration: none;
+}

@@ -1,3 +1,6 @@
 h2 {
     color: crimson;
 }
+.row {
+    border-bottom: solid 10px transparent;
+}
